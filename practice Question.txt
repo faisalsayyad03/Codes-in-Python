@@ -21,7 +21,7 @@ PYTHON MIDDLE-LEVEL PRACTICE QUESTIONS
 17. Check whether a number is even or odd.
 18. Find the largest of two numbers.
 19. Find the largest of three numbers.
-20. Find the smallest of three numbers.
+20. Find the smallest of three numbers..
 21. Check whether a year is a leap year.
 22. Check whether a person is eligible to vote based on age.
 23. Create a simple grade calculator.
